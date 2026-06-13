@@ -1,74 +1,68 @@
-Hola, soy Melanie Vargas 👋
+# Hola, soy Melanie Vargas 👋
 
-Estudiante de Informática Empresarial en la Universidad de Costa Rica.
+Soy estudiante avanzada de Informática Empresarial en la Universidad de Costa Rica, con interés en el desarrollo de software, especialmente en el área de desarrollo web frontend, diseño de interfaces y creación de experiencias digitales intuitivas y funcionales.
 
-Apasionada por el desarrollo web frontend y la creación de interfaces modernas, intuitivas y funcionales. Me interesa diseñar experiencias digitales que sean visualmente atractivas, accesibles y fáciles de utilizar, aplicando buenas prácticas de desarrollo y diseño responsivo.
+## Sobre mí
 
-Sobre mí
--Estudiante avanzada de Informática Empresarial.
--Enfocada principalmente en el desarrollo Frontend.
--Interés en el diseño de interfaces de usuario (UI) y experiencia de usuario (UX).
--Experiencia académica en desarrollo de aplicaciones web, análisis de sistemas y bases de datos.
--Capacidad para trabajar en equipo, adaptarme a nuevos desafíos y aprender nuevas tecnologías.
--Comprometida con el desarrollo de soluciones que aporten valor a los usuarios y a las organizaciones.
+* Estudiante de Informática Empresarial en la Universidad de Costa Rica.
+* Interés principal en desarrollo frontend y diseño de interfaces web.
+* Experiencia académica en desarrollo de aplicaciones web y bases de datos.
+* Conocimientos en diseño responsivo, experiencia de usuario (UX) e interfaces de usuario (UI).
+* Disposición para aprender, adaptarme y contribuir en equipos de trabajo.
 
-Tecnologías y Herramientas
+## Tecnologías y herramientas
 
-Frontend
--HTML5
--CSS3
--JavaScript
--TypeScript
--Vue.js
--React
+**Lenguajes:** JavaScript, TypeScript, HTML, CSS
 
-Bases de Datos
--SQL Server
--MySQL
+**Frameworks y librerías:** Vue.js, React
 
-Herramientas
--Git
--GitHub
--Visual Studio Code
--Figma
+**Bases de datos:** SQL Server, MySQL
 
-Proyectos Destacados
+**Herramientas:** Git, GitHub, Visual Studio Code, Postman, Figma, Trello
 
--Zybus
+## Proyectos destacados
 
-Sistema orientado a la gestión y reserva de viajes en línea.
+### JD Asesoría
 
-Participación principal:
+Sistema web orientado a la gestión administrativa y financiera de una empresa.
 
-Desarrollo de interfaces utilizando Vue.js y TypeScript.
-Implementación de vistas para búsqueda de rutas y compra de boletos.
-Diseño y mejora de componentes visuales.
-Integración de servicios para la gestión de información de viajes.
-Aplicación de diseño responsivo para diferentes dispositivos.
+**Participación principal:**
 
--JD Asesoría
+* Desarrollo de interfaces utilizando React.
+* Creación de formularios con validaciones.
+* Implementación de tablas dinámicas y filtros de búsqueda.
+* Desarrollo de módulos para clientes, ingresos, gastos y reportes.
+* Mejora de la experiencia de usuario mediante interfaces responsivas.
 
-Sistema web para la administración y control financiero de una empresa.
+**Tecnologías:** React, JavaScript, HTML, CSS, SQL Server, Git y GitHub.
 
-Participación principal:
+### ZyBus
 
-Desarrollo de módulos para gestión de clientes, ingresos y gastos.
-Creación de tablas dinámicas y filtros de búsqueda.
-Diseño de formularios con validaciones.
-Implementación de reportes y visualización de información.
-Desarrollo de interfaces enfocadas en la experiencia del usuario.
+Sistema de gestión y venta de boletos para transporte terrestre.
 
--Sistema de Inventario
+**Participación principal:**
 
-Aplicación orientada al control de productos, compras y ventas.
+* Desarrollo de interfaces utilizando Vue.js y TypeScript.
+* Implementación de vistas para búsqueda de rutas y compra de boletos.
+* Diseño y mejora de componentes visuales reutilizables.
+* Integración de servicios para el manejo de información de viajes.
+* Aplicación de diseño responsivo para distintos dispositivos.
 
-Participación principal:
+**Tecnologías:** Vue.js, TypeScript, JavaScript, HTML, CSS, Git y GitHub.
 
-Diseño de interfaces para gestión de inventario.
-Modelado de bases de datos.
-Desarrollo de funcionalidades para administración de productos y categorías.
-Generación de reportes para apoyo en la toma de decisiones.
+### Sistema de Inventario
 
-Actualmente
+Sistema web para la administración de productos, categorías y control de inventario.
 
-Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo Frontend, diseño de interfaces y desarrollo de aplicaciones web modernas. Además, estoy en búsqueda de oportunidades de práctica profesional donde pueda aplicar mis habilidades, adquirir experiencia en entornos reales y continuar creciendo como profesional en el área de tecnología.
+**Participación principal:**
+
+* Diseño y desarrollo de interfaces para la gestión de inventario.
+* Implementación de formularios y validaciones.
+* Gestión visual de productos, categorías y reportes.
+* Colaboración en el análisis y modelado de la información.
+
+**Tecnologías:** React, JavaScript, HTML, CSS, SQL Server, Git y GitHub.
+
+## Actualmente
+
+Estoy fortaleciendo mis habilidades en desarrollo frontend, diseño de interfaces y tecnologías web modernas. Además, me encuentro en búsqueda de una oportunidad de práctica profesional donde pueda aplicar mis conocimientos, adquirir experiencia en proyectos reales y continuar creciendo dentro del área de desarrollo de software.
